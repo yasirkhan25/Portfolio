@@ -59147,7 +59147,7 @@ $S:0}
 A.zG.prototype={
 D(a0){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e=null,d="Montserrat",c=a0.H(t.w).f.a.b,b=$.ku,a=$.ff
 a.toString
-s=A.f2("assets/photos/favicon.png",e,c*0.27)
+s=A.f2("assets/photos/yasir_khan.png",e,c*0.27)
 r=A.bG(e,c*0.03,e)
 q=$.ng
 q.toString
@@ -59182,7 +59182,7 @@ D(a5){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0=null,a1="Montserrat",a2=t.w,a
 a2=$.ku
 s=$.ff
 s.toString
-r=A.f2("assets/photos/favicon.png",a0,a3*0.27)
+r=A.f2("assets/photos/yasir_khan.png",a0,a3*0.27)
 q=A.bG(a0,a3*0.03,a0)
 p=$.ng
 p.toString
